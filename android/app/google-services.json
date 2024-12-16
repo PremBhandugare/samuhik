@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477649758336",
+    "project_id": "samuhik-24d65",
+    "storage_bucket": "samuhik-24d65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477649758336:android:897855788bbd5b43335e65",
+        "android_client_info": {
+          "package_name": "com.example.samuhik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8hPw0PEM0r6JhpKWOBbJ9ndqt8m9Nrqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
